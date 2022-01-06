@@ -12,19 +12,19 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Numbers](https://github.com/amaliacontiero/Projects#numbers)
-- [Classic Algorithms](https://github.com/amaliacontiero/Projects#classic-algorithms)
-- [Graph](https://github.com/amaliacontiero/Projects#graph)
-- [Data Structures](https://github.com/amaliacontiero/Projects#data-structures)
-- [Text](https://github.com/amaliacontiero/Projects#text)
-- [Networking](https://github.com/amaliacontiero/Projects#networking)
-- [Classes](https://github.com/amaliacontiero/Projects#classes)
-- [Threading](https://github.com/amaliacontiero/Projects#threading)
-- [Web](https://github.com/amaliacontiero/Projects#web)
-- [Files](https://github.com/amaliacontiero/Projects#files)
-- [Databases](https://github.com/amaliacontiero/Projects#databases)
-- [Graphics and Multimedia](https://github.com/amaliacontiero/Projects#graphics-and-multimedia)
-- [Security](https://github.com/amaliacontiero/Projects#security)
+- [Numbers](https://github.com/amaliacontiero/CodeProjects#numbers)
+- [Classic Algorithms](https://github.com/amaliacontiero/CodeProjects#classic-algorithms)
+- [Graph](https://github.com/amaliacontiero/CodeProjects#graph)
+- [Data Structures](https://github.com/amaliacontiero/CodeProjects#data-structures)
+- [Text](https://github.com/amaliacontiero/CodeProjects#text)
+- [Networking](https://github.com/amaliacontiero/CodeProjects#networking)
+- [Classes](https://github.com/amaliacontiero/CodeProjects#classes)
+- [Threading](https://github.com/amaliacontiero/CodeProjects#threading)
+- [Web](https://github.com/amaliacontiero/CodeProjects#web)
+- [Files](https://github.com/amaliacontiero/CodeProjects#files)
+- [Databases](https://github.com/amaliacontiero/CodeProjects#databases)
+- [Graphics and Multimedia](https://github.com/amaliacontiero/CodeProjects#graphics-and-multimedia)
+- [Security](https://github.com/amaliacontiero/CodeProjects#security)
 
 Numbers
 ---------
